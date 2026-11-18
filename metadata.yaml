@@ -1,0 +1,16 @@
+---
+title: "OpenAI 2027"
+subtitle: "Plan stratégique de transformation et d'optimisation"
+author: "Matisse Rhéaume-Viale"
+date: "2027"
+lang: fr-CA
+documentclass: report
+fontsize: 11pt
+geometry:
+  - margin=2.3cm
+colorlinks: true
+linkcolor: blue
+urlcolor: blue
+toc-depth: 3
+secnumdepth: 3
+---

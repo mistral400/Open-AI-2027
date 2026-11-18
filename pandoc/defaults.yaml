@@ -1,0 +1,12 @@
+from: markdown+smart+pipe_tables+fenced_divs
+standalone: true
+table-of-contents: true
+number-sections: true
+resource-path:
+  - .
+  - assets
+  - assets/images
+  - assets/diagrams
+pdf-engine: xelatex
+include-in-header:
+  - pandoc/header.tex
